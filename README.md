@@ -4,7 +4,7 @@ Software developer transitioning into DevOps & Cloud Engineering. I build things
 
 ## What I'm Working On
 
-**[HomeOps](https://github.com/Redk3rn3l/homeops)** — An open-source infrastructure management platform. Deploy, manage, and monitor services across homelab, VPS, and cloud from a single dashboard. AI-powered incident analysis, smart alerting, and natural language infrastructure queries.
+**[HomeOps](https://github.com/emmanuelhiss/homeops)** — An open-source infrastructure management platform. Deploy, manage, and monitor services across homelab, VPS, and cloud from a single dashboard. AI-powered incident analysis, smart alerting, and natural language infrastructure queries.
 
 `Next.js` `FastAPI` `PostgreSQL` `Docker` `Kubernetes` `Terraform` `ArgoCD` `Prometheus` `Grafana`
 
